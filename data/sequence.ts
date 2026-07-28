@@ -14,7 +14,7 @@ export interface Phase {
 }
 
 export const SEQUENCE = {
-  folder: '/images/sequence',
+  folder: '/portfolio-v2/images/sequence',
   prefix: 'frame-',
   ext: 'webp',
   count: 182,
